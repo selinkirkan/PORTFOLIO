@@ -1,0 +1,13 @@
+
+
+.bars{
+    width: 50px;
+    height: 50px;
+    float: right;
+    overflow: hidden;
+    position: relative;
+}
+
+.nav-links ul{
+    display: none;
+}
